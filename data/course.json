@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "7218ac7c-d031-be42-361d-4de1ff1d4380",
+  "instructors": {
+    "content": [
+      "d7546624-d50b-4f83-76c1-c82b06ea2773",
+      "1d5c47dc-847f-cf5e-1b3b-210f7f48b212"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a3519df1-ca1a-47f5-420d-5944c78b602e",
+    "website": "15-568a-practical-information-technology-management-spring-2005"
+  },
+  "course_title": "Practical Information Technology Management",
+  "course_description": "The course purpose is to provide the substance and skill necessary to make sound business decisions relating to information systems and to work with senior line managers in the resolution of issues and problems in this area. Categories of issues which will be addressed in the course include:\n\n*   How do IT and its various manifestations in business, such as the Internet, affect current\u00a0and future COMPETITIVENESS? How do we align business strategy and plans with IT strategy and IT plans?\n*   How can we\u00a0ENGAGE executives in learning and leading IT-related change?\n*   How do we\u00a0IMPLEMENT new systems,\u00a0CHANGE work behavior,\u00a0MANAGE projects?\n*   How should we\u00a0ORGANIZE and\u00a0GOVERN IT in an organization?\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.568A",
+  "course_image_thumbnail": {
+    "content": "dbd748ca-3e17-dda5-283e-85b2094ebba5",
+    "website": "15-568a-practical-information-technology-management-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "be00e7e4-ba10-44a2-a7aa-4f759bc6b47b",
+  "site_short_id": "15.568a-spring-2005",
+  "site_url_path": "courses/15-568a-practical-information-technology-management-spring-2005",
+  "title": "Course Metadata"
+}
